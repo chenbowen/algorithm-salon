@@ -75,8 +75,8 @@ IDE：Unity 5 https://unity3d.com/
 - https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial
 - https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial
 - https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial
-- https://unity3d.com/learn/tutorials/projects/tanks-tutorial 或者这个看完前面四章（五章最好）
-- https://www.udemy.com/unitycourse/
+- https://unity3d.com/learn/tutorials/projects/tanks-tutorial
+- https://www.udemy.com/unitycourse/ 或者这个看完前面四章（五章最好）
 
 ------
 
