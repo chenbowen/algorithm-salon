@@ -14,7 +14,9 @@
 [GitHub - chocoluffy/redditQA: Explore some interesting NLP experiments with reddit comments data.](https://github.com/chocoluffy/redditQA)
 
 同时在app的UI和功能上，也有很多人给出了很多很棒的建议，也希望大家各自有记录，可以也在研讨会上提出来~（尤其是lucas对活动部分的建议）
-
+[![20170923232805.png](https://s26.postimg.org/bx68if56x/20170923232805.png)](https://postimg.org/image/mk01nudc5/)
+[![20170923232810.png](https://s26.postimg.org/lk9qs4y6h/20170923232810.png)](https://postimg.org/image/saq81klc5/)
+[![20170923232814.png](https://s26.postimg.org/gx3oqdatl/20170923232814.png)](https://postimg.org/image/6n19r4kxx/)
 ------
 
 ## 2. Project V
