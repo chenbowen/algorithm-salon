@@ -10,9 +10,10 @@ Tech Beta 是UTADA的技术骨干，这里的小夥伴们有着丰富的技术�
 请鼓起勇气申请Dev吧！上交一份自己的作品，让我们一起飞。
 
 # 活动安排
-定期workshop
-hackthon
-project talk
+Project Talk
+Github Workshop
+Project 展示(下半年)
+大一、大二CS经验分享
 
 # 项目介绍
 顺便
@@ -21,3 +22,4 @@ project talk
 
 Smart Timetable
 
+小助手
