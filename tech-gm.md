@@ -11,8 +11,11 @@ Tech Beta 是UTADA的技术骨干，这里的小夥伴们有着丰富的技术�
 
 # 活动安排
 Project Talk
+
 Github Workshop
+
 Project 展示(下半年)
+
 大一、大二CS经验分享
 
 # 项目介绍
